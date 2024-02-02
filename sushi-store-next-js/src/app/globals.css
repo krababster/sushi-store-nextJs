@@ -4,5 +4,8 @@
 }
 
 body {
-	background-color: #0c2d57;
+	background-color: #c7c8cc;
+}
+.content {
+	flex: 1 1 auto;
 }
